@@ -4,7 +4,22 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Documentations utiles
 
-- Doc 1
+- Requête HTTP <br>
+
+GET https://dummyjson.com:443/recipes?limit=10 HTTP/2<br>
+
+
+HTTP : Protocole de communication <br>
+DNS  : Service qui gère les noms de domaine<br>
+GET  : Méthodes du protocole HTTP <br>
+HTTPS://: L'endroit unique de la ressource <br>
+dummyjson.com : Nom du domaine <br>
+443 : le port pour HTTPs <br>
+recipes : Nom de la ressource <br>
+?limit=10 : ? : délimiteur, sépare la ressource et les valeurs , limit : clé, 10 : valeur <br>
+HTTP/2 : version du protocole<br>
+
+
 - Doc 2
 - Doc 3
 
